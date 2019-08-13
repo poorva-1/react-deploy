@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://poorva-1.github.io/react-deploy",
+  "homepage": "https://poorva-1.github.io/react-deploy",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
